@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Maren :robot: 👋
+
+If you want to know a little more about me
+please visit my [CV](https://me-cv.de/)
+
+LinkedIn Xing 
+
+:robot: Coding-Einsteigerin @SPICED/neue fische
 
 <!--
 **MarenOelixtown/MarenOelixtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
