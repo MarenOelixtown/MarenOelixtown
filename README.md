@@ -1,10 +1,10 @@
 # Hi there, I'm Maren 👋
 
-- { / } I’m currently working on ... my portfolio for application
+- { / } I’m currently working on ... my portfolio for application aas a web developer
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - :star_struck:
  My hobbies ... Playing Guitare, Basketball, Running
-- :sunglasses:  My 'Place To B' ... north sea  & all kind of coasts
+- :sunglasses:  My favorite 'Place To B' ... north sea  & all kind of coasts
 
 
 
