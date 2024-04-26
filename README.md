@@ -19,7 +19,7 @@
 If you want to know a little more about me,
 please visit my [CV](https://me-cv.de/)
 
-or just connect @ [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
+or just feel free to connect @ [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
 
 <!--
 **MarenOelixtown/MarenOelixtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
