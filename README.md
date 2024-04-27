@@ -27,7 +27,19 @@
 |     Neumünster| High school diploma economics _@ Theodor-Litt-Schule_     |
 </details>
 
-If you want to know a little more about me,
+<details>
+<summary>My skills</summary>
+
+| :gear: Tech Stack  | :hammer_and_wrench: Tools | 🗣️ Languages |
+| ------------- | ------------- | ------------- |
+| Adobe Photoshop, Adobe Lightroom, MS Office | picturemaxx-backstage, fotostation, cleverreach, jimdo  | german, english |
+
+</details>
+
+
+---
+**If you want to know a little more about me,**
+
 please visit my [CV](https://me-cv.de/)
 
 or just feel free to connect @ [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
