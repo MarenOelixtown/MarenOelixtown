@@ -46,8 +46,7 @@ or just feel free to connect   [![LinkedIn](LI-In-Bug_klein.png)](https://www.li
 
 
 👀👀👀👀 <br>
-<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/v9TIAlR4FPMcGQp4VfJY?label=VISITS&shadow=1&shadowOpacity=30&swap=1&labelBGColor=a0a0a0&countBGColor=eabf25&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a> 
-
+<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/Zey3fvFIDeK6TrWRTPMf?label=VISITS&shadow=1&shadowOpacity=30&swap=1&labelBGColor=a0a0a0&countBGColor=2867B2&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
 <!--
 **MarenOelixtown/MarenOelixtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
