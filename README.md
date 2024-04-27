@@ -1,4 +1,4 @@
-# Hi there, I'm Maren 👋
+# MOIN, I'm Maren 👋
 
 - { / } I’m currently working on ... my portfolio for application as a web developer
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
@@ -16,6 +16,17 @@
 
 
 ---
+<details>
+<summary>My steps in job & education</summary>
+
+| 🌍 | :office: :woman_technologist: :office: |
+|-----:|-----------|
+|     Hamburg| Employee as photo editor @ Thomas & Thomas |
+|     Hamburg| Trainee & employee as photo editor @ New Eyes GmbH   |
+|     Elmshorn| Trainee as photographer @ Studio Berthold   |
+|     Neumünster| High school diploma economics @ Theodor-Litt-Schule     |
+</details>
+
 If you want to know a little more about me,
 please visit my [CV](https://me-cv.de/)
 
