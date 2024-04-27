@@ -20,11 +20,11 @@
 <summary>My steps in job & education</summary>
 
 | 🌍 | :office: :woman_technologist: :office: |
-|-----:|-----------|
-|     Hamburg| Employee as photo editor @ Thomas & Thomas |
-|     Hamburg| Trainee & employee as photo editor @ New Eyes GmbH   |
-|     Elmshorn| Trainee as photographer @ Studio Berthold   |
-|     Neumünster| High school diploma economics @ Theodor-Litt-Schule     |
+|:-----:|:-----------|
+|     Hamburg| Employee as photo editor _@ [Thomas & Thomas](https://www.thomasundthomas.com/)_ |
+|     Hamburg| Trainee & employee as photo editor _@ New Eyes GmbH_   |
+|     Elmshorn| Trainee as photographer _@ Studio Berthold_   |
+|     Neumünster| High school diploma economics _@ Theodor-Litt-Schule_     |
 </details>
 
 If you want to know a little more about me,
