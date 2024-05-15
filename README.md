@@ -45,7 +45,7 @@ please have a look at my [CV](https://me-cv.de/)
 or just feel free to connect   [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
 
 
-👀👀👀👀 <br>
+👀👀👀👀👀 <br>
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/Zey3fvFIDeK6TrWRTPMf?label=VISITS&shadow=1&shadowOpacity=30&swap=1&labelBGColor=a0a0a0&countBGColor=2867B2&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
 <!--
