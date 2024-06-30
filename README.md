@@ -44,8 +44,8 @@ please have a look at my [CV](https://me-cv.de/)
 
 or just feel free to connect   [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
 
-👀👀👀👀👀👀<br/>
-![visits](https://visit-counter.vercel.app/counter.png?page=&s=20&c=fcfcfc&bg=2867b2&no=3&ff=electrolize&tb=Visits%3A++&ta=)
+👀👀👀👀👀<br/>
+![](https://komarev.com/ghpvc/?username=MarenOelixtown&abbreviated=true)
 
 <!--
 **MarenOelixtown/MarenOelixtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
