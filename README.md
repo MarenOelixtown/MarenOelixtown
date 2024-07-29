@@ -1,7 +1,7 @@
 # MOIN, I'm Maren 👋
 
 - { / } I’m currently working on ... my portfolio for application as a web developer
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React
+- 🌱 I just learned during a 3-month-bootcamp @SPICED/neue fische ... JavaScript, React, HTML, CSS
 - :star_struck:
  My hobbies ... Playing Guitare, Basketball, Running
 - :sunglasses:  My favorite 'Place To B' ... north sea  & all kind of coasts
@@ -12,7 +12,7 @@
 ---
 
 
-:robot: _Coding-Beginner @SPICED/neue fische_
+:robot: _Junior Web Developer_
 
 
 ---
@@ -21,6 +21,7 @@
 
 | 🌍 | :office: :woman_technologist: :office: |
 |:-----:|:-----------|
+|     Remote| Student _@ [SPICED/neue fische](https://www.spiced-academy.com/de)_ |
 |     Hamburg| Employee as photo editor _@ [Thomas & Thomas](https://www.thomasundthomas.com/)_ |
 |     Hamburg| Trainee & employee as photo editor _@ New Eyes GmbH_   |
 |     Elmshorn| Trainee as photographer _@ Studio Berthold_   |
