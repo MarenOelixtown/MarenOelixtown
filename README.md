@@ -41,9 +41,7 @@
 ---
 **If you want to know a little more about me,**
 
-please have a look at my [CV](https://portfolio-me-cv.vercel.app/)
-
-or just feel free to connect   [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
+feel free to connect @    [![LinkedIn](LI-In-Bug_klein.png)](https://www.linkedin.com/in/maren-ehlers-a262a4122)
 
 👀👀👀👀👀<br/>
 ![](https://komarev.com/ghpvc/?username=MarenOelixtown&abbreviated=true)
