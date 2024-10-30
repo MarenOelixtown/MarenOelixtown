@@ -28,6 +28,7 @@
 |     Neumünster| High school diploma economics _@ Theodor-Litt-Schule_     |
 </details>
 
+<!-- 
 <details>
 <summary>My skills</summary>
 
@@ -36,7 +37,7 @@
 | Adobe Photoshop, Adobe Lightroom, MS Office | picturemaxx-backstage, fotostation, cleverreach, jimdo  | german, english |
 
 </details>
-
+-->
 
 ---
 **If you want to know a little more about me,**
