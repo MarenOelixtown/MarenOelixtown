@@ -1,6 +1,7 @@
 # MOIN, I'm Maren 👋
 
 - { / } I’m currently working on ... my portfolio for application as a web developer
+- 👩‍💻 Activ on [Frontendmentor](https://www.frontendmentor.io/) to practice building websites in a realistic workflow. Meet me [Maren@Frontendmentor](https://www.frontendmentor.io/profile/MarenOelixtown)!
 - 🌱 I just learned during a 3-month-bootcamp @SPICED/neue fische ... JavaScript, React, HTML, CSS
 - :star_struck:
  My hobbies ... Playing Guitare, Basketball, Running
